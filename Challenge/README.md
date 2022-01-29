@@ -2,7 +2,7 @@
 Module 4 Panda /Anaconda
 
 ## 1. Explain the purpose of this analysis
-Overview of the school district analysis
+The objective of this analys is to modify the information in the students_complete.csv file with NAN, the ninth grade grades of the Thomas High School, since it was detected that there were dishonest acts, so it is necessary to perform the analysis of the results again and determinate how the information was affected with those changes.
 
 ## 2. Results:
 
